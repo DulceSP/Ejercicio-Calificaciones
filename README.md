@@ -1,4 +1,4 @@
-T3A1-EJERCICIO 01
+T3A1---Ejercicio-01
 
 ##Etapa 1. Descripc  del problema
 Desarrollar una solución que permita ingresar y almacenar las calificaciones finales de todos 
@@ -14,18 +14,17 @@ Proceso:
 -promedio = SumaDeCalificaciones / totalDeCalificaciones
 Salida:
 -Resumen de los datos del estudiante con su promedio
-
+~~~
 -------------------------------------------------------
 Estudiante: DULCE MARIA SANTOS PEREZ
-Grupo: 1A  Carrera:INGENIER+IA INFORMÁTICA
-
+Grupo: 1A  Carrera:INGENIERÍA INFORMÁTICA
 Asignatura: calificación
 FUNDAMENTOS DE PROGRAMACIÓN     74
 
 MATEMÁTICAS DISCRETAS           87
 -------------------------------------------------------
 PROMEDIO                        90
-
+~~~
 ##Etapa 3. Diseño de la solución
 Diagrama de la clase
 ![](https://github.com/DulceSP/Ejercicio-Calificaciones/blob/main/Diagrama_Prom.png)
