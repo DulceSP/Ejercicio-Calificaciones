@@ -1,4 +1,4 @@
-T3A1---Ejercicio-01
+## T3A1---Ejercicio-01
 
 ##Etapa 1. Descripc  del problema
 Desarrollar una solución que permita ingresar y almacenar las calificaciones finales de todos 
@@ -28,3 +28,4 @@ PROMEDIO                        90
 ##Etapa 3. Diseño de la solución
 Diagrama de la clase
 ![](https://github.com/DulceSP/Ejercicio-Calificaciones/blob/main/Diagrama_Prom.png)
+
