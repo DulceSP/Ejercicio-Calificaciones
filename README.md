@@ -28,3 +28,4 @@ PROMEDIO                        90
 
 ##Etapa 3. Diseño de la solución
 Diagrama de la clase
+![](https://github.com/DulceSP/Ejercicio-Calificaciones/blob/main/Diagrama_Prom.png)
