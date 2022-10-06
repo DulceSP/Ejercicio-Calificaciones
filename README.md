@@ -25,7 +25,9 @@ MATEMÁTICAS DISCRETAS           87
 -------------------------------------------------------
 PROMEDIO                        90
 ~~~
-##Etapa 3. Diseño de la solución
+## Etapa 3. Diseño de la solución
 Diagrama de la clase
 ![](https://github.com/DulceSP/Ejercicio-Calificaciones/blob/main/Diagrama_Prom.png)
+
+## Etapa 4. Desarrollo de la solución
 
