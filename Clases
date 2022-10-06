@@ -8,8 +8,6 @@ Entrada: datos de los estudiantes
 -Estudiante: nombre, apellido, grupo, carrera
 -Asignatura: calificaciones, nombre de la asignatura
 Proceso:
-
-Entrada:
 -Calcular el promedio de las calificaciones finales
 -promedio = SumaDeCalificaciones / totalDeCalificaciones
 Salida:
