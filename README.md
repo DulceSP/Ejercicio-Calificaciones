@@ -31,4 +31,4 @@ Diagrama de la clase
 
 ## Etapa 4. Desarrollo de la solución
 
-https://github.com/DulceSP/Ejercicio-Calificaciones/blob/main/t3a1.zip
+https://github.com/DulceSP/Ejercicio-Calificaciones/blob/main/t3A1_32.zip
